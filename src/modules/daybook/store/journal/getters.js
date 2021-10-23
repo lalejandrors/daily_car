@@ -1,7 +1,7 @@
-export const getEntriesByTerm = (state) => {
+export const getEntriesByTerm = (/*state*/) => {
 
 }
 
-export const getEntryById = (state) => {
+export const getEntryById = (/*state*/) => {
 
 }
